@@ -31,6 +31,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/commandblock-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 0,
     "versionPublish": "4.8.6"
   },

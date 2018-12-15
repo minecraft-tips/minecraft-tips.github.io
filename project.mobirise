@@ -1613,6 +1613,32 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Faire un cadavre realiste",
+                "active": false
+              },
+              {
+                "tags": "Animé",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20181115-1116322018-11-6-12-12-35.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/xsCjMojs5uI",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Envoyer des eclairs",
+                "active": false
+              },
+              {
+                "tags": "Animé",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20181115-1116322018-11-6-12-14-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/fl_u0d8ru5g",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Craft personalisés",
                 "active": true
               },
               {
@@ -1625,33 +1651,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
-                "active": false
-              },
-              {
-                "tags": "Animé",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "playVideo": true,
-                "videoUrl": "",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
-                "active": false
-              },
-              {
-                "tags": "Animé",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "playVideo": true,
-                "videoUrl": "",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "",
                 "active": false
               },
               {

@@ -1777,6 +1777,43 @@ body {
 .cid-rciciZqhSb {
   background-image: url("../../../assets/images/bannire-sel-rogne-1920x608.png");
 }
+.cid-rcifkvo56c {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rcifkvo56c h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rcifkvo56c p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rcifkvo56c .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-rcifkvo56c .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-rcifkvo56c .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rcifkvo56c .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-rcifkvo56c .card-box {
+    padding-left: 0;
+  }
+}
 .cid-rciaYVyxCL .navbar {
   background: #c1c1c1;
   transition: none;
